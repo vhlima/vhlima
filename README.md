@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/vhlimabr/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**vhlima/vhlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
 
-Here are some ideas to get you started:
+* Desenvolvedor Java/JavaScript fullstack. 
+* Atualmente estudando para aperfeiçoar meus conhecimentos fullstack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detailed information
+
+* **Nome**: Victor Hugo Lima
+* **Idade**: 21
+* **Localização**: Rio de Janeiro - RJ, Brasil
+* **Stack**: ReactJS - NextJS - Apollo - Express - GraphQL - SQL
+* **Cursando**: Análise e Desenvolvimento de Sistemas - Anhanguera Educacional (2/4)
+
+## Curiosities about me
+
+* Comecei a programar em Java com apenas 13 anos
+* Aos 15 anos comecei a trabalhar com Java fazendo plugins para servidores do jogo Minecraft
+* Participei de uma comunidade focada em ensinar pessoas que não tinham experiência prévia com programação e ajuda-las a conseguir fazer seus primeiros programas em Java
+* Sempre fui apaixonado por programação e computadores
