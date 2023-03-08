@@ -4,22 +4,22 @@
     </a>
 </div>
 
-## Public information
+## 🌎 About Me
+ * JavaScript/Java Developer
+ * Currently studying to enhance my full-stack skills
 
-* Desenvolvedor Java/JavaScript fullstack. 
-* Atualmente estudando para aperfeiçoar meus conhecimentos fullstack. 
+## 💻 Socials
+ * **GitHub**: https://github.com/vhlima
 
-## Detailed information
+## ℹ️ Detailed Info
+ * **Name**: Victor Hugo Lima
+ * **Age**: 22
+ * **Location**: Rio de Janeiro - RJ, Brazil
+ * **Stack**: TypeScript - ReactJS - NextJS - Apollo - Express - GraphQL - SQL
+ * **Studying**: Systems Analysis and Development - Anhanguera Educacional (3/4)
 
-* **Nome**: Victor Hugo Lima
-* **Idade**: 21
-* **Localização**: Rio de Janeiro - RJ, Brasil
-* **Stack**: ReactJS - NextJS - Apollo - Express - GraphQL - SQL
-* **Cursando**: Análise e Desenvolvimento de Sistemas - Anhanguera Educacional (2/4)
-
-## Curiosities about me
-
-* Comecei a programar em Java com apenas 13 anos
-* Aos 15 anos comecei a trabalhar com Java fazendo plugins para servidores do jogo Minecraft
-* Participei de uma comunidade focada em ensinar pessoas que não tinham experiência prévia com programação e ajuda-las a conseguir fazer seus primeiros programas em Java
-* Sempre fui apaixonado por programação e computadores
+## ❓ Fun Facts
+ * Started programming in Java at the age of 13
+ * Began working with Java at 15, creating plugins for Minecraft servers
+ * Participated in a community focused on teaching programming to individuals without prior experience and helping them create their first Java programs
+ * Passionate about programming and computers from an early age
