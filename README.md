@@ -12,7 +12,7 @@
 
 ## ℹ️ Detailed Info
  * **Name**: Victor Hugo Lima
- * **Age**: 22
+ * **Age**: 23
  * **Location**: Rio de Janeiro - RJ, Brazil
  * **Stack**: TypeScript - ReactJS - NextJS - Express - GraphQL - SQL
- * **Studying**: Systems Analysis and Development - Anhanguera Educacional (4/4)
+ * **Studying**: Systems Analysis and Development - Anhanguera Educacional
