@@ -4,15 +4,7 @@
     </a>
 </div>
 
-## 🌎 About Me
  * JavaScript/Java Developer
 
 ## 💻 Socials
  * **LinkedIn**: https://linkedin.com/in/vhlimabr/
-
-## ℹ️ Detailed Info
- * **Name**: Victor Hugo Lima
- * **Age**: 23
- * **Location**: Rio de Janeiro - RJ, Brazil
- * **Stack**: TypeScript - ReactJS - NextJS - Express - GraphQL - SQL
- * **Studying**: Systems Analysis and Development - Anhanguera Educacional
